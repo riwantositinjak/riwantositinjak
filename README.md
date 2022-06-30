@@ -14,8 +14,6 @@
 
 - 👯 I’m looking to collaborate on **None at this time**
 
-- 🤝 I’m looking for help with **Working Progress**
-
 - 👨‍💻 All of my projects are available at [workingprogress](workingprogress)
 
 - 📝 I regularly write articles on [https://www.hipwee.com/author/riwantositinjak/](https://www.hipwee.com/author/riwantositinjak/)

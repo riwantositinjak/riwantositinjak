@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Portfolio Website with ReactJS**
 
-- 🌱 I’m currently learning **JavaScript Library ReactJS, Go Programming Language**
+- 🌱 I’m currently learning **ReactJS, GO-Lang**
 
 - 📝 I regularly write articles on [https://www.hipwee.com/author/riwantositinjak/](https://www.hipwee.com/author/riwantositinjak/)
 

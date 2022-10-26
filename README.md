@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/iwansitinjakk" target="blank"><img src="https://img.shields.io/twitter/follow/iwansitinjakk?logo=twitter&style=for-the-badge" alt="iwansitinjakk" /></a> </p>
 
-- 🔭 I’m currently working on **Portfolio Website with ReactJS**
-
 - 🌱 I’m currently learning **ReactJS, GO-Lang**
 
 - 📝 I regularly write articles on [https://www.hipwee.com/author/riwantositinjak/](https://www.hipwee.com/author/riwantositinjak/)

@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://twitter.com/iwansitinjakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iwansitinjakk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/riwantositinjak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riwantositinjak" height="30" width="40" /></a>
-<a href="https://instagram.com/iwansitinjakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iwansitinjakk" height="30" width="40" /></a>
+<a href="https://instagram.com/iwansitinjakk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tatararalala" height="30" width="40" /></a>
 <a href="https://riwantositinjak.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="riwantositinjak" height="30" width="40" /></a>
 <a href="https://discord.gg/Brooke L" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Brooke L" height="30" width="40" /></a>
 </p>

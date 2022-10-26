@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tatararalala" target="blank"><img src="https://img.shields.io/twitter/follow/tatararalala?logo=twitter&style=for-the-badge" alt="tatararalala" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS, GO-Lang**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📝 I regularly write articles on [https://www.hipwee.com/author/riwantositinjak/](https://www.hipwee.com/author/riwantositinjak/)
 
